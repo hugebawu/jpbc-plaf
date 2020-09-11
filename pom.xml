@@ -13,12 +13,20 @@
 	<description>
     </description>
 
+	<repositories>
+		<repository>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+
 	<dependencies>
-		<dependency>
-			<groupId>it.unisa.dia.gas</groupId>
+		<!-- dependency>
+			<groupId>com.github.hugebawu</groupId>
 			<artifactId>jpbc-api</artifactId>
 			<version>2.0.0</version>
 		</dependency>
+		-->
 	</dependencies>
 
 	<build>
